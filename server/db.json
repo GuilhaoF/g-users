@@ -1,0 +1,144 @@
+{
+  "usuarios": [
+    {
+      "nome": "João Silva",
+      "email": "joao.silva@example.com",
+      "quantidade_reais": 1000
+    },
+    {
+      "nome": "Maria Santos",
+      "email": "maria.santos@example.com",
+      "quantidade_reais": 2000
+    },
+    {
+      "nome": "Pedro Oliveira",
+      "email": "pedro.oliveira@example.com",
+      "quantidade_reais": 1500
+    },
+    {
+      "nome": "Ana Souza",
+      "email": "ana.souza@example.com",
+      "quantidade_reais": 1200
+    },
+    {
+      "nome": "Carlos Pereira",
+      "email": "carlos.pereira@example.com",
+      "quantidade_reais": 1300
+    },
+    {
+      "nome": "Paula Fernandes",
+      "email": "paula.fernandes@example.com",
+      "quantidade_em_reais": 1400
+    },
+    {
+      "nome": "Lucas Costa",
+      "email": "lucas.costa@example.com",
+      "quantidade_reais": 1500
+    },
+    {
+      "nome": "Julia Martins",
+      "email": "julia.martins@example.com",
+      "quantidade_em_reais": 1600
+    },
+    {
+      "nome": "Gabriel Alves",
+      "email": "gabriel.alves@example.com",
+      "quantidade_reais": 1700
+    },
+    {
+      "nome": "Laura Rodrigues",
+      "email": "laura.rodrigues@example.com",
+      "quantidade_em_reais": 1800
+    },
+    {
+      "nome": "Rafaela Lima",
+      "email": "rafaela.lima@example.com",
+      "quantidade_reais": 1900
+    },
+    {
+      "nome": "Bruno Castro",
+      "email": "bruno.castro@example.com",
+      "quantidade_reais": 2000
+    },
+    {
+      "nome": "Camila Dias",
+      "email": "camila.dias@example.com",
+      "quantidade_reais": 2100
+    },
+    {
+      "nome": "Roberto Silva",
+      "email": "roberto.silva@example.com",
+      "quantidade_reais": 2200
+    },
+    {
+      "nome": "Patricia Santos",
+      "email": "patricia.santos@example.com",
+      "quantidade_reais": 2300
+    },
+    {
+      "nome": "Ricardo Oliveira",
+      "email": "ricardo.oliveira@example.com",
+      "quantidade_reais": 2400
+    },
+    {
+      "nome": "Isabela Souza",
+      "email": "isabela.souza@example.com",
+      "quantidade_em_reais": 2500
+    },
+    {
+      "nome": "Guilherme Pereira",
+      "email": "guilherme.pereira@example.com",
+      "quantidade_reais": 2600
+    },
+    {
+      "nome": "Fernanda Fernandes",
+      "email": "fernanda.fernandes@example.com",
+      "quantidade_reais": 2700
+    },
+    {
+      "nome": "Rodrigo Costa",
+      "email": "rodrigo.costa@example.com",
+      "quantidade_reais": 2800
+    },
+    {
+      "nome": "Luis Felipe",
+      "email": "luis.felipe@example.com",
+      "quantidade_reais": 2000
+    },
+    {
+      "nome": "Guilhao",
+      "email": "guilhao@example.com",
+      "quantidade_reais": 23000
+    },
+    {
+      "id": "8952",
+      "nome": "Marcos",
+      "email": "marcos@fc@gmail.com",
+      "quantidade_reais": 12000
+    },
+    {
+      "id": "3b1f",
+      "nome": "Fernando",
+      "email": "fernand@gmail.com",
+      "quantidade_reais": 120
+    },
+    {
+      "id": "7fda",
+      "nome": "Pedro",
+      "email": "pedro@gmail.com",
+      "quantidade_reais": 12000
+    },
+    {
+      "id": "7e93",
+      "nome": "Joao",
+      "email": "joao@gmail.com",
+      "quantidade_reais": 99999
+    },
+    {
+      "id": "d92b",
+      "nome": "Luis Carlos",
+      "email": "luitrs@gmail.com",
+      "quantidade_reais": 980
+    }
+  ]
+}
